@@ -52,7 +52,7 @@
     ✅ x1 Elimination Manager <br>
     ✅ x2 Teleporter Device ( Only for 1v1 map, unlimited for ffa map )<br>
 
-  * <h1> 🟢 Discord  ---> <a href="https://discord.gg/pY5bdD7mZ3">Join</a> </h1>
+  * <h1> 🟢 Discord  ---> <a href="https://discord.gg/9cTTAnFMr3">Join</a> </h1>
   ✅ This script is available on discord, join us ! <br>
 
 
@@ -98,7 +98,7 @@
 [stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
 [stars-url]: https://github.com/Kixov/robux-recharge-page/stargazers
 [discord-shield]: https://img.shields.io/badge/Discord-8A2BE2?style=for-the-badge&logo=discord&logoColor=fff&color=555
-[discord-url]: https://discord.gg/pY5bdD7mZ3
+[discord-url]: https://discord.gg/9cTTAnFMr3
 [js-shield]: https://img.shields.io/badge/JavaScript-8A2BE2?style=for-the-badge&logo=javascript&logoColor=fff&color=yellow
 [js-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [html-shield]: https://img.shields.io/badge/HTML-8A2BE2?style=for-the-badge&logo=html5&logoColor=fff&color=orange
